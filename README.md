@@ -14,5 +14,6 @@ Ce projet est réalisé dans le cadre du cours de Théorie du Machine Learning s
 ## Lien utiles :
 - https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf (Chapitre 15 du livre)
 - https://cazencott.info/dotclear/public/lectures/IntroML_Azencott.pdf (Livre Cours Classification)
+- https://www.canva.com/design/DAF6OPGMa9w/96WMJUZWpeDxA-Mi7go1jQ/edit (Lien Canvas)
 
 
